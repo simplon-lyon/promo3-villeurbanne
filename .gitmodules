@@ -1,0 +1,129 @@
+[submodule "promo3-html-css"]
+	path = promo3-html-css
+	url = git@github.com:simplon-lyon/promo3-html-css.git
+[submodule "js-loop"]
+	path = js-loop
+	url = git@github.com:simplon-lyon/js-loop.git
+[submodule "dom-js"]
+	path = dom-js
+	url = git@github.com:simplon-lyon/dom-js.git
+[submodule "promo2-observable"]
+	path = promo2-observable
+	url = git@github.com:simplon-lyon/promo2-observable.git
+[submodule "promo2-premier-angular"]
+	path = promo2-premier-angular
+	url = git@github.com:simplon-lyon/promo2-premier-angular.git
+[submodule "promo2-angular-puzzle"]
+	path = promo2-angular-puzzle
+	url = git@github.com:simplon-lyon/promo2-angular-puzzle.git
+[submodule "promo3-javascript-divers"]
+	path = promo3-javascript-divers
+	url = git@github.com:simplon-lyon/promo3-javascript-divers.git
+[submodule "js-scope"]
+	path = js-scope
+	url = git@github.com:simplon-lyon/js-scope.git
+[submodule "promo3-cours-php"]
+	path = promo3-cours-php
+	url = git@github.com:simplon-lyon/promo3-cours-php.git
+[submodule "promo3-blog-php"]
+	path = promo3-blog-php
+	url = git@github.com:simplon-lyon/promo3-blog-php.git
+[submodule "promo3-poo-php"]
+	path = promo3-poo-php
+	url = git@github.com:simplon-lyon/promo3-poo-php.git
+[submodule "promo3-pdo"]
+	path = promo3-pdo
+	url = git@github.com:simplon-lyon/promo3-pdo.git
+[submodule "music_db"]
+	path = music_db
+	url = git@github.com:simplon-lyon/music_db.git
+[submodule "promo3-ajax"]
+	path = promo3-ajax
+	url = git@github.com:simplon-lyon/promo3-ajax.git
+[submodule "promo3-battleship-ajax"]
+	path = promo3-battleship-ajax
+	url = git@github.com:simplon-lyon/promo3-battleship-ajax.git
+[submodule "promo3-ajax-chat"]
+	path = promo3-ajax-chat
+	url = git@github.com:simplon-lyon/promo3-ajax-chat.git
+[submodule "weather_api"]
+	path = weather_api
+	url = git@github.com:simplon-lyon/weather_api.git
+[submodule "promo3-fetch-api"]
+	path = promo3-fetch-api
+	url = git@github.com:simplon-lyon/promo3-fetch-api.git
+[submodule "promo3-js-promise"]
+	path = promo3-js-promise
+	url = git@github.com:simplon-lyon/promo3-js-promise.git
+[submodule "promo3-first-node"]
+	path = promo3-first-node
+	url = git@github.com:simplon-lyon/promo3-first-node.git
+[submodule "promo3-webpack"]
+	path = promo3-webpack
+	url = git@github.com:simplon-lyon/promo3-webpack.git
+[submodule "nodebot-example"]
+	path = nodebot-example
+	url = git@github.com:simplon-lyon/nodebot-example.git
+[submodule "promo3-nodejs-express"]
+	path = promo3-nodejs-express
+	url = git@github.com:simplon-lyon/promo3-nodejs-express.git
+[submodule "promo3-nodebot"]
+	path = promo3-nodebot
+	url = git@github.com:simplon-lyon/promo3-nodebot.git
+[submodule "promo2-design-patterns"]
+	path = promo2-design-patterns
+	url = git@github.com:simplon-lyon/promo2-design-patterns.git
+[submodule "promo3-node-template"]
+	path = promo3-node-template
+	url = git@github.com:simplon-lyon/promo3-node-template.git
+[submodule "promo3-php-mustache"]
+	path = promo3-php-mustache
+	url = git@github.com:simplon-lyon/promo3-php-mustache.git
+[submodule "promo3-wp-and-git"]
+	path = promo3-wp-and-git
+	url = git@github.com:simplon-lyon/promo3-wp-and-git.git
+[submodule "promo3-typescript"]
+	path = promo3-typescript
+	url = git@github.com:simplon-lyon/promo3-typescript.git
+[submodule "promo3-first-interface"]
+	path = promo3-first-interface
+	url = git@github.com:simplon-lyon/promo3-first-interface.git
+[submodule "promo3-math-api"]
+	path = promo3-math-api
+	url = git@github.com:simplon-lyon/promo3-math-api.git
+[submodule "promo3-preprocesseur-client"]
+	path = promo3-preprocesseur-client
+	url = git@github.com:simplon-lyon/promo3-preprocesseur-client.git
+[submodule "promo3-example-portfolio"]
+	path = promo3-example-portfolio
+	url = git@github.com:simplon-lyon/promo3-example-portfolio.git
+[submodule "promo3-ng-first"]
+	path = promo3-ng-first
+	url = git@github.com:simplon-lyon/promo3-ng-first.git
+[submodule "promo3-ng-budget"]
+	path = promo3-ng-budget
+	url = git@github.com:simplon-lyon/promo3-ng-budget.git
+[submodule "proxy-example"]
+	path = proxy-example
+	url = git@github.com:simplon-lyon/proxy-example.git
+[submodule "cheylard-intro-js"]
+	path = cheylard-intro-js
+	url = git@github.com:simplon-lyon/cheylard-intro-js.git
+[submodule "promo3-tests-js"]
+	path = promo3-tests-js
+	url = git@github.com:simplon-lyon/promo3-tests-js.git
+[submodule "promo3-projet-ecommerce"]
+	path = promo3-projet-ecommerce
+	url = git@github.com:simplon-lyon/promo3-projet-ecommerce.git
+[submodule "promo3-ng-heroes"]
+	path = promo3-ng-heroes
+	url = git@github.com:simplon-lyon/promo3-ng-heroes.git
+[submodule "promo3-observable"]
+	path = promo3-observable
+	url = git@github.com:simplon-lyon/promo3-observable.git
+[submodule "express-mysql-api"]
+	path = express-mysql-api
+	url = git@github.com:simplon-lyon/express-mysql-api.git
+[submodule "promo3-ng-insta"]
+	path = promo3-ng-insta
+	url = git@github.com:simplon-lyon/promo3-ng-insta.git
