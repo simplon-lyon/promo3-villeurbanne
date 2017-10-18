@@ -7,15 +7,6 @@
 [submodule "dom-js"]
 	path = dom-js
 	url = git@github.com:simplon-lyon/dom-js.git
-[submodule "promo2-observable"]
-	path = promo2-observable
-	url = git@github.com:simplon-lyon/promo2-observable.git
-[submodule "promo2-premier-angular"]
-	path = promo2-premier-angular
-	url = git@github.com:simplon-lyon/promo2-premier-angular.git
-[submodule "promo2-angular-puzzle"]
-	path = promo2-angular-puzzle
-	url = git@github.com:simplon-lyon/promo2-angular-puzzle.git
 [submodule "promo3-javascript-divers"]
 	path = promo3-javascript-divers
 	url = git@github.com:simplon-lyon/promo3-javascript-divers.git
@@ -70,9 +61,6 @@
 [submodule "promo3-nodebot"]
 	path = promo3-nodebot
 	url = git@github.com:simplon-lyon/promo3-nodebot.git
-[submodule "promo2-design-patterns"]
-	path = promo2-design-patterns
-	url = git@github.com:simplon-lyon/promo2-design-patterns.git
 [submodule "promo3-node-template"]
 	path = promo3-node-template
 	url = git@github.com:simplon-lyon/promo3-node-template.git
