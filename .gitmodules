@@ -106,9 +106,6 @@
 [submodule "proxy-example"]
 	path = proxy-example
 	url = git@github.com:simplon-lyon/proxy-example.git
-[submodule "cheylard-intro-js"]
-	path = cheylard-intro-js
-	url = git@github.com:simplon-lyon/cheylard-intro-js.git
 [submodule "promo3-tests-js"]
 	path = promo3-tests-js
 	url = git@github.com:simplon-lyon/promo3-tests-js.git
