@@ -112,3 +112,6 @@
 [submodule "promo3-ng-insta"]
 	path = promo3-ng-insta
 	url = git@github.com:simplon-lyon/promo3-ng-insta.git
+[submodule "promo3-java-web"]
+	path = promo3-java-web
+	url = git@github.com:simplon-lyon/promo3-java-web.git
